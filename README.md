@@ -9,3 +9,5 @@
 * or
 * you can put the file in the same Directory for the Project as I do it.
 
+* in the beginig i try to open Google and check if page title is equal google 
+
